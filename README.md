@@ -1,4 +1,9 @@
 # compuational_physics_N2015301020127
+# 时间
+- 2017-2018第一学期
+
+# 老师
+- 蔡浩
 # Homework List
 - [ ] [Exercise_02:Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_02:Name)
 - [ ] [Exercise_03:All levels]
