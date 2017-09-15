@@ -5,6 +5,7 @@
 计算机小白爆米花完成的第一个爬虫程序
 
 ## 正文
+设计程序先编辑好每个字母的对应编排方式，运行时输入自己的姓名拼音即可\
 python程序代码：[代码2-1](http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3)\
 运行结果截图：[戳这里](http://pan.baidu.com/s/1bOOPoM)
 
