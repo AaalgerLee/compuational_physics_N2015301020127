@@ -5,7 +5,8 @@
 ## 老师 
 - 蔡浩
 # Homework List
-- [ ] [Exercise_02:Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_02:Name)
+- [x] [Exercise_02:Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_02:Name)
+- [x] [Exercise_02-1: Moveable Name]
 - [ ] [Exercise_03:All levels]
 - [ ] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]
 - [ ] [Exercise_05:Chapter 1 problem 1.6:Population growth]
