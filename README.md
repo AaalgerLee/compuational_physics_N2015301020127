@@ -6,7 +6,7 @@
 - 蔡浩
 # Homework List
 - [x] [Exercise_02:Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_02:Name.md)
-- [x] [Exercise_02-1: Moveable Name]（https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise%2002-1:movable%20name.md）
+- [x] [Exercise 02-1:Movable Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise：02-1:movable%20name.md)
 - [ ] [Exercise_03:All levels]
 - [ ] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]
 - [ ] [Exercise_05:Chapter 1 problem 1.6:Population growth]
@@ -20,4 +20,3 @@
 - [ ] [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. The SOR algorithm]
 - [ ] [Exercise_14:Chapter 6 problem 6.15:The realistic string problem]
 - [ ] [Final Project:用轨道能量分析Kirkwood Gap的缝宽]
- 
