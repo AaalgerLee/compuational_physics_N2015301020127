@@ -4,7 +4,7 @@
 继续小试牛刀~
 ## 正文
 暴力 码代码
-python程序代码：[代码2-2](http://localhost:8888/notebooks/Untitled1.ipynb?kernel_name=python3)\
+python程序代码：[代码2-2](http://localhost:8888/notebooks/Untitled1.ipynb?kernel_name=python3)
 ## 结论
 这次作业暴力解决，完成得缺乏新意
 ## 致谢
