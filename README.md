@@ -6,8 +6,7 @@
 - 蔡浩
 # Homework List
 - [x] [Exercise_02:Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_02:Name.md)
-- [x] [Exercise 02-1:Movable Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise：02-1:movable%20name.md)
-- [ ] [Exercise_03:All levels]
+- [x] [Exercise 03:Movable Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise：02-1:movable%20name.md)
 - [ ] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]
 - [ ] [Exercise_05:Chapter 1 problem 1.6:Population growth]
 - [ ] [Exercise_06:Chapter 2 problem 2.9&2.10:The cannon]
