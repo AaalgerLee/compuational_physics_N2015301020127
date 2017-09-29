@@ -7,7 +7,7 @@
 通过本次作业的练习，我终于基本掌握了用python绘图的方法，另外，也第一次通过自己写程序来解决微分。
 
 ### 二、背景介绍
-题目1.5课本习题1.5\ 
+题目1.5课本习题1.5 \ 
 Consider again  a decay problem with two types of nuclei A and B, but now suppose that nuclei of type A decay into ones of type B, while nuclei of type B decay into ones of type A. Strictly speaking, this is not a "decay" process, since it is possible for the type B nuclei to turn back into type A nuclei. A better analogy would be a resonance in which a system can tunnel or move back and forth between two states A and B which have equal energies. The correponding rate equation are   
 　　　　　　　　　　　　　　　d N_A /dt = N_B/tau - N_A/tau  
 　　　　　　　　　　　　　　　d N_B /dt = N_A/tau - N_B/tau  
@@ -18,5 +18,5 @@ where for simplicity we have assumed that the two types of decay are characteriz
 
 本次计算中，衰变特征时间tau=10，取步长分别为四种情况：5.0, 2.0， 1.0， 2.0，0.5, 由此分别计算出数值解并作图(如下左图)。另外，为更直观地表示出各情况数值计算的精度，分别计算了各情况数值解与解析结果的偏差(如右下图)。可以发现，在步长为时间常数的1/2时,数值解偏离正确值很大，在核数为1000左右的情况下，计算偏差能达到200；而当步长减小时，计算误差则也减小；当步长仅为时间常数的1/20时，数值偏差衰减到不足20，此时可以认为计算精度比较满意。
  
-源代码：[source code](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_04/sourcecode4.py)
+\源代码：[source code](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_04/sourcecode4.py)
  
