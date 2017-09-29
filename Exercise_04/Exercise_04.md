@@ -17,6 +17,11 @@ where for simplicity we have assumed that the two types of decay are characteriz
 本次计算中，衰变特征时间tau=10，取步长分别为四种情况：5.0, 2.0， 1.0， 2.0，0.5, 由此分别计算出数值解并作图(如下左图)。另外，为更直观地表示出各情况数值计算的精度，分别计算了各情况数值解与解析结果的偏差(如右下图)。可以发现，在步长为时间常数的1/2时,数值解偏离正确值很大，在核数为1000左右的情况下，计算偏差能达到200；而当步长减小时，计算误差则也减小；当步长仅为时间常数的1/20时，数值偏差衰减到不足20，此时可以认为计算精度比较满意。                 
                                                                                                                                   
 源代码：[source code](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_04/sourcecode4.py)     
-数值结果：[戳这里]                                                                                                                   效果图：
+数值结果：[戳这里]（https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_04/sourcetext4.txt）       效果图：
+![]（）
+
 ### 四、结论
 通过这次作业的掌握了用python绘图的方法，并掌握了写程序去解决微分的方法。
+
+### 五、致谢
+感谢赵展艺同学的源代码
