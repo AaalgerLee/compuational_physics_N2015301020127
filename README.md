@@ -9,8 +9,7 @@
 - [x] [Exercise 03:Movable Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise%2003.md)
 - [x] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_04/Exercise_04.md)
 - [x] [Exercise_05:Chapter 1 problem 2.9:The cannon](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_05/Exercise_05.md)
-- [ ] [Exercise_06:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball]
-(https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_06/Exercise_06.md)
+- [x] [Exercise_06:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_06/Exercise_06.md)
 - [ ] [Exercise_07:Chapter 2 problem ]
 - [ ] [Exercise_08:Chapter 3 problem 3.4:Non-linear oscillator]
 - [ ] [Exercise_09:Chapter 3 problem 3.16:Strange attractor]
