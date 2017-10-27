@@ -4,10 +4,10 @@
 
 
 ## *摘要*
-	investigate the driven nonlinear pendulum, using the Euler-Cromer method. 
-	also reproduce the Poincaré section in Figure 3.9 of the textbook.
-	construct the Poincaré sections for the cases mentioned in 3.12.
-        use Python to design the programs, which can realize the purpose of this assignment. 
+     investigate the driven nonlinear pendulum, using the Euler-Cromer method. 
+     also reproduce the Poincaré section in Figure 3.9 of the textbook.
+     construct the Poincaré sections for the cases mentioned in 3.12.
+     use Python to design the programs, which can realize the purpose of this assignment. 
    
 
 ---
