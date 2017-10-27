@@ -47,7 +47,5 @@
 ---
 
 ## *致谢*
-   The program part is based on the program of [2013301510086](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework9/code3.12_3.md).
-
-
+   Thanks for the help of Zhao Zhanyi.
 
