@@ -59,6 +59,6 @@ Change the value of <img src="http://chart.googleapis.com/chart?cht=tx&chl=r" st
 
 
 # 6.Acknowledgemen and Reference  
--  [数学公式生成器] (http://www.ruanyifeng.com/webapp/formula.html) 
+-  [数学公式生成器](http://www.ruanyifeng.com/webapp/formula.html)
 -  Computational Physics, Nicholas J. Giordano & Hisao Nakanishi  
 -  感谢余婧柯学姐的指导和帮助
