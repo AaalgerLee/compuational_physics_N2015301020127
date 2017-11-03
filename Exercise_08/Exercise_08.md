@@ -1,4 +1,4 @@
-# 第十次作业
+# 第八次作业
 
 # 1.Abstract    
 In this report, the Lorentz model is applied to grasp a basic understanding of fluid mechanics, especially Rayleigh-Benard problem. Besides, phase-space plot, Poincare section are investigated.  
@@ -59,5 +59,6 @@ Change the value of <img src="http://chart.googleapis.com/chart?cht=tx&chl=r" st
 
 
 # 6.Acknowledgemen and Reference  
--  [数学公式生成器] ( http://www.ruanyifeng.com/webapp/formula.html)  
+-  [数学公式生成器] (http://www.ruanyifeng.com/webapp/formula.html) 
 -  Computational Physics, Nicholas J. Giordano & Hisao Nakanishi  
+-  感谢余婧柯学姐的指导和帮助
