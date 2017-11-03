@@ -58,7 +58,7 @@ Change the value of <img src="http://chart.googleapis.com/chart?cht=tx&chl=r" st
 ![](https://github.com/JunyiShangguan/computationalphysics_N2013301020076/blob/master/ex10_ch3.26/figure_3.7.png)  
 
 
-# 6.Acknowledgemen and Reference  
+# 6.Acknowledgement and Reference  
 -  [数学公式生成器](http://www.ruanyifeng.com/webapp/formula.html)
 -  Computational Physics, Nicholas J. Giordano & Hisao Nakanishi  
 -  感谢余婧柯学姐的指导和帮助
