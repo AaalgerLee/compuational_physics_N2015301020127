@@ -11,7 +11,7 @@
 - [x] [Exercise_05:Chapter 1 problem 2.9:The cannon](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_05/Exercise_05.md)
 - [x] [Exercise_06:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_06/Exercise_06.md)
 - [x] [Exercise_07:Chapter 2 problem 3.9&3.12](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_07/Exercise_07.md)
-- [ ] [Exercise_08:Chapter 3 problem 3.4:Non-linear oscillator]
+- [x] [Exercise_08:Chapter 3 problem 3.26&3.29](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_08/Exercise_08.md)
 - [ ] [Exercise_09:Chapter 3 problem 3.16:Strange attractor]
 - [ ] [Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table]
 - [ ] [Exercise_11:Chapter 4 problem 4.11:The Procession of Mercury]
