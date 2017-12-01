@@ -13,7 +13,7 @@
 - [x] [Exercise_07:Chapter 2 problem 3.9&3.12](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_07/Exercise_07.md)
 - [x] [Exercise_08:Chapter 3 problem 3.26&3.29](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_08/Exercise_08.md)
 - [x] [Exercise_09:Chapter 3 problem 3.31](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_09/Exercise_09.md)
-- [ ] [Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table]
+- [x] [Exercise_10:Chapter 4 problem 4.11](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_10/Exercise_10.md)
 - [ ] [Exercise_11:Chapter 4 problem 4.11:The Procession of Mercury]
 - [ ] [Exercise_12:Chapter 4 problem 4.18:The Kirkwood Gap]
 - [ ] [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. The SOR algorithm]
