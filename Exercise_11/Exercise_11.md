@@ -33,7 +33,7 @@ Gauss-Seidel方法的改进版是simultaneous over-relaxation （SOR）方法。
 这里我们考虑和上文相同的物理情景，但是有两个变化。第一、中间没有任何东西。第二、y方向上的边界电势为1，x方向上的边界电势为-1.
 [![](https://raw.githubusercontent.com/wuyuqiao/computationalphysics_N2013301020142/master/Ex13/nothing%201.png)  
 ![](https://raw.githubusercontent.com/wuyuqiao/computationalphysics_N2013301020142/master/Ex13/nothing%202.png)  
-![](https://raw.githubusercontent.com/wuyuqiao/computationalphysics_N2013301020142/master/Ex13/nothing%203.png)](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/Ex13/nothing.py)  
+![](https://raw.githubusercontent.com/wuyuqiao/computationalphysics_N2013301020142/master/Ex13/nothing%203.png)](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_11/nothing.py)  
 点击图片可以获得绘图的代码。由图可知，在这种情况下，电势的分布呈现马鞍状，电场线的走向基本上是从y方向边界指向x方向的边界。这与电磁学和我们的物理直觉又是相同的。 
 
 ## 结论  
