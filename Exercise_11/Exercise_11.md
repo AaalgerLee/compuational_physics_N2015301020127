@@ -27,7 +27,7 @@ Gauss-Seidel方法的改进版是simultaneous over-relaxation （SOR）方法。
 这里我们将上文中的电容器换成中心的一个点电荷。  
 [![](https://raw.githubusercontent.com/wuyuqiao/computationalphysics_N2013301020142/master/Ex13/point%201.png)  
 ![](https://raw.githubusercontent.com/wuyuqiao/computationalphysics_N2013301020142/master/Ex13/point%202.png)  
-![](https://raw.githubusercontent.com/wuyuqiao/computationalphysics_N2013301020142/master/Ex13/point%203.png)](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/Ex13/point.py)
+![](https://raw.githubusercontent.com/wuyuqiao/computationalphysics_N2013301020142/master/Ex13/point%203.png)](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_11/capacitor.py)
 点击图片可以获得绘图的代码。由图可知，电势为圆心在电荷上的同心圆，且电场线呈辐射状。这与电磁学相一致。  
 ### 二维绝缘带电盒子中电势的分布  
 这里我们考虑和上文相同的物理情景，但是有两个变化。第一、中间没有任何东西。第二、y方向上的边界电势为1，x方向上的边界电势为-1.
