@@ -5,7 +5,7 @@
 ## 老师 
 - 蔡浩
 # Homework List
-- [x] [Exercise_02:Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_02:Name.md)
+- [x] [Exercise_02:Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_02.md)
 - [x] [Exercise 03:Movable Name](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise%2003.md)
 - [x] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_04/Exercise_04.md)
 - [x] [Exercise_05:Chapter 1 problem 2.9:The cannon](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_05/Exercise_05.md)
