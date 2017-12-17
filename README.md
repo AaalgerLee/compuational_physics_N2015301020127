@@ -15,7 +15,7 @@
 - [x] [Midterm project_pygame](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/midterm/midterm.md)
 - [x] [Exercise_09:Chapter 3 problem 3.31](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_09/Exercise_09.md)
 - [x] [Exercise_10:Chapter 4 problem 4.11](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_10/Exercise_10.md)
-- [x] [Exercise_11:Chapter 5 problem 5.3]
+- [x] [Exercise_11:Chapter 5 problem 5.3](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_11/Exercise_11.md)
 - [x] [Exercise_12:Chapter 6 problem 6.6&6.12](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_12/Exercise_12.md)
 - [ ] [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. The SOR algorithm]
 - [ ] [Exercise_14:Chapter 6 problem 6.15:The realistic string problem]
