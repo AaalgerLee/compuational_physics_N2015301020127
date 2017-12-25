@@ -17,4 +17,4 @@
 - [x] [Exercise_10:Chapter 4 problem 4.11](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_10/Exercise_10.md)
 - [x] [Exercise_11:Chapter 5 problem 5.3](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_11/Exercise_11.md)
 - [x] [Exercise_12:Chapter 6 problem 6.6&6.12](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_12/Exercise_12.md)
-- [x] [Final Project:Demonstration of Chaos in The Damped, Driven, Nonlinear Pendulum]
+- [x] [Final Project:Demonstration of Chaos in The Damped, Driven, Nonlinear Pendulum](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/fanal/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87.pdf)
