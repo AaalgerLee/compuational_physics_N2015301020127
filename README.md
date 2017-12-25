@@ -17,6 +17,4 @@
 - [x] [Exercise_10:Chapter 4 problem 4.11](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_10/Exercise_10.md)
 - [x] [Exercise_11:Chapter 5 problem 5.3](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_11/Exercise_11.md)
 - [x] [Exercise_12:Chapter 6 problem 6.6&6.12](https://github.com/AaalgerLee/compuational_physics_N2015301020127/blob/master/Exercise_12/Exercise_12.md)
-- [ ] [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. The SOR algorithm]
-- [ ] [Exercise_14:Chapter 6 problem 6.15:The realistic string problem]
-- [ ] [Final Project:用轨道能量分析Kirkwood Gap的缝宽]
+- [x] [Final Project:Demonstration of Chaos in The Damped, Driven, Nonlinear Pendulum]
